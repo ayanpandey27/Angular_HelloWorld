@@ -1,0 +1,6 @@
+.container {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically (if height is defined) */
+    height: 100vh; /* Optional: Centers image in the viewport */
+}
